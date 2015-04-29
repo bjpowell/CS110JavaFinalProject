@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Deck()
+comment0.text=\n\ Constructor\ creats\ a\ deck\ of\ 52\ playing\ cards,\ then\ shuffles\ the\ deck\ twice\n
+comment1.params=
+comment1.target=void\ shuffle()
+comment1.text=\n\ randomized\ the\ deck\ of\ cards\n\ uses\ the\ collections.shuffle\ method\n
+comment2.params=
+comment2.target=Card\ drawWithoutRepl()
+comment2.text=\n\ draws\ the\ first\ card\ from\ the\ top\ of\ the\ deck\ and\ does\ not\ return\ it\ to\ the\ deck\n\ trims\ the\ deck\ to\ size\ after\ the\ card\ is\ removed\n\ @return\ Card\n
+numComments=3

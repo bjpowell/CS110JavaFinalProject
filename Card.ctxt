@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=kind\ number\ imageName
+comment0.target=Card(int,\ int,\ java.lang.String)
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Card\n\ @param\ int\ suit\n\ @param\ int\ rank\n\ @param\ String\ image\n
+comment1.params=
+comment1.target=int\ getSuit()
+comment1.text=\n\ returns\ the\ card's\ suit\n\ @return\ int\ suit\n
+comment2.params=
+comment2.target=int\ getRank()
+comment2.text=\n\ returns\ the\ card's\ rank\n\ @return\ int\ rank\n
+comment3.params=card2
+comment3.target=boolean\ equals(Card)
+comment3.text=\n\ tests\ to\ see\ if\ two\ cards\ contain\ the\ same\ rank\n\ @param\ card\ object\n
+comment4.params=card2
+comment4.target=boolean\ greaterThan(Card)
+comment4.text=\n\ test\ to\ see\ if\ this\ card\ is\ greater\ in\ numeric\ rank\ than\ the\ arguments\n\ @return\ boolean\n
+comment5.params=card2
+comment5.target=boolean\ lessThan(Card)
+comment5.text=\n\ test\ to\ see\ if\ this\ card\ is\ less\ in\ numeric\ rank\ than\ the\ arguments\n\ @return\ boolean\n
+comment6.params=
+comment6.target=javax.swing.ImageIcon\ getImage()
+comment6.text=\n\ returns\ the\ card\ image\ icon\ to\ be\ set\ up\ the\ constructor\n\ and\ used\ by\ the\ GUI\n\ @return\ ImageIcon\n
+comment7.params=
+comment7.target=java.lang.String\ toString()
+comment7.text=\n\ to\ string\ method\ prints\ a\ cards\ identity\ in\ terms\ of\ its\ suit\ and\ rank\n\ @return\ String\n
+numComments=8

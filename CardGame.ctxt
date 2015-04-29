@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=name1\ name2
+comment0.target=CardGame(java.lang.String,\ java.lang.String)
+comment1.params=name
+comment1.target=void\ setPlayer1(java.lang.String)
+comment1.text=\n\ Sets\ the\ name\ of\ player\ 1\n\ @param\ String\ name\n
+comment2.params=name
+comment2.target=void\ setPlayer2(java.lang.String)
+comment2.text=\n\ Sets\ the\ name\ of\ player\ 2\n\ @param\n
+comment3.params=
+comment3.target=java.lang.String\ getPlayer1()
+comment3.text=\n\ returns\ the\ name\ of\ player\ 1\n\ @return\ String\ name\n
+comment4.params=
+comment4.target=java.lang.String\ getPlayer2()
+comment4.text=\n\ returns\ the\ name\ of\ player\ 2\n\ @return\ String\ name\n
+numComments=5
